@@ -1,2 +1,2 @@
 # Obama-CRASH
-Pon lo que quiera es la descripción Josemi.
+That is a simple program that crashes your computer in seconds.
